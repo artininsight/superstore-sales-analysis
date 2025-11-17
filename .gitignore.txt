@@ -1,0 +1,21 @@
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data - don't upload large files
+data/*.csv
+# Remove the line above if you want to include train.csv
